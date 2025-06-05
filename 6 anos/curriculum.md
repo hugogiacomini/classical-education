@@ -5,12 +5,69 @@
 ### Cronograma Diário para Semana 1
 
 #### Segunda-feira
-- **Alfabeto (20 min):** Ensinar as formas e sons das letras A, B, C com músicas e jogos de associação (ex.: "A de avião").
-- **Números (20 min):** Contar objetos ao redor para reforçar números, usando brincadeiras como "Quantos passos até a porta?".
+- **Alfabeto (20 min):** Ensinar as formas e sons das letras A, B, C com músicas e jogos de associação (ex.: "A de avião").  
+    - **Letra A:**  
+        1. Desenhar objetos que começam com a letra A, como avião, abacaxi e árvore.  
+        2. Criar um jogo de memória com palavras e imagens que começam com A.  
+        3. Fazer uma colagem com recortes de revistas de coisas que começam com A.  
+        4. Cantar uma música que inclua palavras com a letra A.  
+        5. Brincar de "achar objetos" na casa que comecem com a letra A.  
+
+    - **Letra B:**  
+        1. Fazer um desenho de um balão e colorir com diferentes cores.  
+        2. Criar uma história curta usando palavras que começam com B, como bola, barco e borboleta.  
+        3. Montar um quebra-cabeça simples com imagens de objetos que começam com B.  
+        4. Brincar de "bingo" com palavras e imagens que começam com B.  
+        5. Fazer uma lista de palavras que começam com B e tentar formar frases com elas.  
+
+    - **Letra C:**  
+        1. Desenhar e pintar um carro, um cachorro e um cacto.  
+        2. Criar um jogo de caça-palavras com palavras que começam com C.  
+        3. Fazer um teatro de fantoches com personagens cujos nomes começam com C.  
+        4. Brincar de "mímica" representando objetos ou animais que começam com C.  
+        5. Fazer uma receita simples, como cookies, e discutir a letra C durante o preparo.  
+        
+- **Números (20 min):**  
+    1. **Contagem de Brinquedos:** Peça à criança para contar brinquedos ou objetos pequenos, como blocos ou carrinhos, e organize-os em grupos de 5 ou 10.  
+    2. **Jogo de Dados:** Use um dado para rolar números e peça à criança para contar o mesmo número de passos, pulos ou palmas.  
+    3. **Caça aos Números:** Esconda cartões com números pela casa e peça à criança para encontrá-los e colocá-los em ordem crescente.  
+    4. **Desenho Numérico:** Desenhe círculos ou quadrados no papel e peça à criança para preencher cada forma com o número correspondente de pontos ou adesivos.  
+    5. **História com Números:** Crie uma história curta onde a criança precisa contar elementos, como "Quantas maçãs estão na cesta?" ou "Quantos pássaros estão na árvore?".  
 
 #### Terça-feira
-- **Natureza (20 min):** Explorar o ambiente ao ar livre, observando plantas e discutindo suas partes básicas (raiz, caule, folhas).
-- **Latim (20 min):** Introduzir palavras simples em Latim com cartões ilustrados e músicas que associem as palavras ao seu significado.
+- **Natureza (20 min):**  
+    1. **Exploração ao Ar Livre:** Leve a criança para um passeio no jardim ou parque e peça que observe diferentes plantas, identificando suas partes básicas (raiz, caule, folhas).  
+    2. **Desenho de Plantas:** Peça à criança para desenhar uma planta que viu e rotular suas partes principais.  
+    3. **Jogo de Associação:** Use cartões com imagens de partes de plantas e peça à criança para combiná-los com as plantas reais ou desenhos.  
+    4. **Experimento Simples:** Plante uma semente em um vaso e discuta como as partes da planta ajudam no crescimento.  
+    5. **História da Planta:** Conte uma história curta sobre como uma planta cresce, desde a semente até se tornar uma árvore ou flor.  
+
+- **Latim (20 min):**  
+    1. **Cartões Ilustrados:** Mostre cartões com palavras simples em Latim (ex.: "aqua" para água) e peça à criança para repetir e associar ao objeto correspondente.  
+    2. **Música em Latim:** Cante uma música simples que inclua palavras em Latim, como nomes de cores ou objetos.  
+        - Exemplos de músicas:  
+            - "Adeste Fideles" (para introduzir palavras como "fidelis" e "venite").  
+            - "Gaudeamus Igitur" (para explorar palavras como "gaudeamus" e "juvenes").  
+            - "Ave Maria" (para familiarizar com palavras como "ave" e "Maria").  
+            - Crie uma música simples com palavras básicas em Latim, como "aqua" (água), "terra" (terra), e "caelum" (céu).  
+    3. **Jogo de Memória:** Crie um jogo de memória com palavras em Latim e suas imagens correspondentes.  
+        - Exemplos de palavras:  
+            - "aqua" (água)  
+            - "terra" (terra)  
+            - "caelum" (céu)  
+            - "sol" (sol)  
+            - "luna" (lua)  
+            - "flos" (flor)  
+            - "arbor" (árvore)  
+            - "avis" (pássaro)  
+            - "canis" (cachorro)  
+            - "felis" (gato)  
+    4. **Desenho e Rotulagem:** Peça à criança para desenhar objetos simples e rotulá-los com palavras em Latim.  
+        - Exemplos de desenhos:  
+            - Um copo de água (aqua)  
+            - Uma árvore (arbor)  
+            - Um pássaro (avis)  
+    5. **Caça ao Tesouro:** Esconda objetos pela casa e dê pistas em Latim para que a criança os encontre (ex.: "aqua" para encontrar um copo de água).  
 
 #### Quarta-feira
 
@@ -53,20 +110,34 @@ Após a leitura, faça as seguintes perguntas:
 5. **Música ou Poesia:** Crie uma música ou poema simples com a criança sobre a criação do mundo e o que ela mais gosta nele.
 
 #### Quinta-feira
-- **Alfabeto (20 min):** Copiar as letras A, B, C em um caderno e desenhar algo que comece com cada letra.
-- **Números (20 min):** Contar brinquedos ou frutas em casa e registrar os números em um papel.
+- **Alfabeto (20 min):**
+    1. Criar um alfabeto ilustrado: desenhar uma letra e um objeto correspondente para cada uma (A de avião, B de bola, etc.).
+    2. Fazer um jogo de "telefone sem fio" com palavras que começam com A, B e C.
+    3. Criar uma história curta usando palavras que começam com as letras A, B e C.
+    4. Fazer um caça-palavras simples com as letras A, B e C.
+    5. Brincar de formar palavras com letras móveis ou blocos de letras.
 
-#### Sexta-feira
-- **Natureza (20 min):** Desenhar uma planta observada e nomear suas partes.
-- **Latim (20 min):** Praticar as palavras aprendidas em Latim, desenhando imagens que representem cada uma.
+- **Números (20 min):**
+    1. Criar um gráfico simples com objetos contados (ex.: "Quantos brinquedos vermelhos e azuis temos?").
+    2. Fazer um jogo de "quantos passos até o objeto", mas desta vez contando de trás para frente.
+    3. Resolver problemas simples de subtração, como "5 maçãs - 2 maçãs".
+    4. Criar um jogo de "quantos estão faltando?" com grupos de objetos.
+    5. Fazer uma corrida de contagem: contar quantos passos ou pulos a criança consegue dar em 10 segundos.
 
-#### Sábado
-- **História (20 min):** Criar uma linha do tempo simples com eventos da história lida sobre Santos Dumont.
-- **Religião (20 min):** Fazer um desenho da criação do mundo e compartilhar algo pelo qual a criança é grata a Deus.
+- **Natureza (20 min):**
+    1. Criar um diário da natureza: desenhar e registrar algo interessante observado ao ar livre.
+    2. Fazer um jogo de "adivinhe a planta" com pistas sobre suas características.
+    3. Observar o céu e identificar formas nas nuvens, discutindo o que elas lembram.
+    4. Criar um terrário simples com pedras, terra e plantas pequenas.
+    5. Fazer uma colagem com folhas secas e flores coletadas durante uma caminhada.
 
-#### Domingo
-- **Revisão (30 min):** Revisar os conceitos aprendidos durante a semana com jogos, músicas e atividades interativas.
-- **Atividade Livre (30 min):** Permitir que a criança escolha uma atividade favorita da semana para repetir ou expandir.
+- **Latim (20 min):**
+    1. Criar um pequeno dicionário ilustrado com palavras em Latim aprendidas.
+    2. Fazer um jogo de "complete a frase" com palavras em Latim (ex.: "Aqua é...").
+    3. Criar um quebra-cabeça com palavras em Latim e suas traduções.
+    4. Fazer um jogo de "quem sou eu?" com pistas em Latim sobre objetos ou animais.
+    5. Criar uma música ou rima simples usando palavras em Latim aprendidas.
+
 ### Cronograma Diário para Semana 2
 
 #### Segunda-feira
